@@ -1,0 +1,22 @@
+body{
+    background-color:#242582 !important;
+    text-align: center;
+}
+.dispay-4{
+    color: #997383; !important;
+    font-weight: lighter !important;
+    font-family: 'Bangers', cursive !important;
+}
+h2{
+    color:#997383;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+}
+button{
+    color: #daad86;
+    background-color: #f64672;
+    width: 200px;
+    height: 70px;
+    font-size: 40px !important;
+}
